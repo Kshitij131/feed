@@ -86,16 +86,17 @@ function KannadaLearning() {
       fontFamily: 'Arial, sans-serif',
       maxWidth: '1200px',
       margin: '0 auto',
+      // backgroundColor: 'rgb(176,196,222)',
     },
     title: {
-      color: '#333',
+      color: '#12EE28',
       marginBottom: '30px',
-      borderBottom: '2px solid #333',
+      borderBottom: '2px solid #9DA29D',
       paddingBottom: '10px',
     },
     section: {
       marginBottom: '40px',
-      backgroundColor: '#f5f5f5',
+      backgroundColor: 'rgba(152,251,152,0.3)',
       padding: '20px',
       borderRadius: '10px',
     },
@@ -118,16 +119,16 @@ function KannadaLearning() {
     },
     english: {
       fontSize: '14px',
-      color: '#666',
+      color: '#020887',
       marginBottom: '5px',
     },
     kannada: {
       fontSize: '24px',
-      color: '#333',
+      color: '#CC00CC',
       fontWeight: 'bold',
     },
     sectionTitle: {
-      color: '#2c3e50',
+      color: '#12EE28',
       fontSize: '24px',
       marginBottom: '20px',
     }
